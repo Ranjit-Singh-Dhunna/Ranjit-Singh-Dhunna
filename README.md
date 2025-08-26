@@ -1,8 +1,10 @@
+<div align="center">
+
 ## 🚀 Languages, Tools & 🎧 Spotify  
 
 <table>
 <tr>
-<td align="center" width="65%">
+<td align="center" width="47%">
 
 <!-- Languages & Tools -->
 <p>
@@ -18,13 +20,15 @@
 </p>
 
 </td>
-<td align="center" width="100%">
+<td align="center" width="53%">
 
 <!-- Spotify -->
 <a href="https://open.spotify.com/user/31cgcptm4aignqeiwzm2s255qywm" target="_blank">
-  <img src="https://novatorem-one-orcin.vercel.app/api/spotify" alt="Spotify Now Playing" width="230"/>
+  <img src="https://novatorem-one-orcin.vercel.app/api/spotify" alt="Spotify Now Playing" width="450"/>
 </a>
 
 </td>
 </tr>
 </table>
+
+</div>
