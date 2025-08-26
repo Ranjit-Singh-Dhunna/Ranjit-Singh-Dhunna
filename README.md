@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td align="center" width="47%">
+<td align="center" width="50%">
 
 <!-- Languages & Tools -->
 <p>
@@ -20,7 +20,7 @@
 </p>
 
 </td>
-<td align="center" width="53%">
+<td align="center" width="50%">
 
 <!-- Spotify -->
 <a href="https://open.spotify.com/user/31cgcptm4aignqeiwzm2s255qywm" target="_blank">
